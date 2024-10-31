@@ -1,3 +1,7 @@
+/*
+    The following has my very naive solution to the LED challenge.
+*/
+
 #![deny(unsafe_code)]
 #![no_main]
 #![no_std]
